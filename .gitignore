@@ -1,0 +1,10 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+app_preview.png
+
+# 개인 강의 정리 노트(로컬 테스트 전용, 저장소에 올리지 않음)
+tests/samples/*_정리.md
